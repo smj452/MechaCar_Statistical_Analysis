@@ -27,7 +27,7 @@ p-value is below 0.05. Therefore, we have sufficient evidence to reject the null
 
 ![Total Summary](https://github.com/smj452/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable2_Total_summary.png)
 
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Based on that specification the current manufacturing data meets this design specification manufacturing lots ```Lot 1``` and ```Lot 2``` but does not meet for Lot3 since the variance of the suspension coils is higher than 100 pounds per square inch.
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Based on that specification the current manufacturing data meets this design specification manufacturing lots ```Lot 1``` and ```Lot 2``` but does not meet for ```Lot3``` since the variance of the suspension coils is higher than 100 pounds per square inch.
 
 
 ## T-Tests on Suspension Coils
